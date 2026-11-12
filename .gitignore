@@ -1,0 +1,19 @@
+# Binari e archivi pesanti scaricati
+il-terzo-avvistamento/bin/
+bin/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# File di sistema e temporanei
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Cartelle IDE / Editor locali
+.vscode/
+.idea/
